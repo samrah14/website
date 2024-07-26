@@ -1,0 +1,259 @@
+body{
+    background-image: url(background\ img.jpg);
+    background-position: center;
+
+}
+#Header1{
+    height: 100px;
+    background-color: pink;
+    border-radius: 10px;
+
+}
+.header_logo{
+    height: 100px;
+    display: flex;
+    background-position: center;
+    background-size: cover;
+    width: 50%;
+
+}
+h1{
+   
+   color: aliceblue;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   font-size: 40px;
+   padding-left: 72%;
+
+}
+li{
+  color: rgb(253, 106, 131);
+  display: inline;
+  padding-left: 40px;
+  
+
+}
+ul{
+
+    text-align: center;
+    font-size: x-large;
+    
+    
+}
+.header_button{
+margin-left: 93%;
+    margin-top: 20px;
+    display: flex;
+}
+.macrons{
+    margin-top: 50px;
+    padding-left: 10%;
+
+}
+p{
+ color: palevioletred;
+    font-size: xx-large;
+}
+.order{
+    padding-left: 50px;
+}
+.text1{
+    font-size: 30px;
+    color: palevioletred;
+    text-align: left;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+button{
+    background-color:aliceblue;
+    color:rgb(253, 106, 131);
+}
+.cakes{
+    display: flex;
+    height: 400px;
+    padding-left: 50px;
+    margin-top: 30px;
+    margin-bottom: 50px; 
+
+
+}
+#Footer1{
+    background-color: pink;
+    color: aliceblue;
+    text-align: center;
+    height: 50px;
+    font-size: xx-large;
+    margin-bottom: 20px;
+}
+#Header2{
+    background-color: pink;
+height: 80px;
+  color: aliceblue;
+  text-align: center;
+  font-weight: bolder;
+  font-size: 60px;
+  padding-top: 10px;
+  border-radius: 10px;
+  
+}
+#Body2{
+    padding-left: 30px;
+    display: flex;
+    color: palevioletred;
+    text-align: left;
+    font-size: x-large;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+.text{
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-right: 20px;
+}
+.btnn{
+    padding-left: 91%;
+    margin-top: 20px;
+    
+    
+}
+button:hover{
+    background-color: pink;
+    color: aliceblue;
+
+}
+#Header3{
+    background-color: pink;
+    height: 80px;
+      color: aliceblue;
+      text-align: center;
+      font-weight: bolder;
+      font-size: 60px;
+      padding-top: 10px;
+      border-radius: 10px;
+    }
+    #Body3{
+    display: flex;
+    margin-top: 20px;  
+    }
+    .box1{
+        margin-left: 10%;
+        font: bolder;
+        font-size: 40px;
+        text-align: center;
+        color:palevioletred;
+        background-color: aliceblue;
+    }
+     .box2{ 
+        
+        margin-left: 10%;
+        font: bolder;
+        font-size: 40px;
+        text-align: center;
+        color:palevioletred;
+        background-color: aliceblue; 
+
+    }
+.box1:hover, .box2:hover{
+    border: solid pink 5px;
+    background-color: pink;
+    color: aliceblue;
+    
+}
+#body_3{
+    display: flex;
+}
+.box3{
+    margin-top: 20px;
+    margin-left: 10%;
+    font: bolder;
+    font-size: 40px;
+    text-align: center;
+    color:palevioletred;
+    background-color: aliceblue;
+}
+ .box4{ 
+    margin-top: 20px;
+    margin-left: 10%;
+    font: bolder;
+    font-size: 40px;
+    text-align: center;
+    color:palevioletred;
+    background-color: aliceblue; 
+
+}
+.box3:hover, .box4:hover{
+    border: solid pink 5px;
+    background-color: pink;
+    color: aliceblue;
+    
+}
+.text2{
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 50px;
+    font: bolder;
+    font-size: 50px;
+    text-align: center;
+    color:palevioletred;
+    background-color: aliceblue; 
+
+}
+.text3{
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 50px;
+    font: bolder;
+    font-size: 50px;
+    text-align: center;
+    color:palevioletred;
+    background-color: aliceblue; 
+
+}
+#Body_3{
+    display: flex;
+    margin-bottom: 50px;
+}
+.box5{
+    margin-top: 20px;
+    margin-left: 10%;
+    font: bolder;
+    font-size: 40px;
+    text-align: center;
+    color:palevioletred;
+    background-color: aliceblue;
+}
+ .box6{ 
+    margin-top: 20px;
+    margin-left: 10%;
+    font: bolder;
+    font-size: 40px;
+    text-align: center;
+    color:palevioletred;
+    background-color: aliceblue; 
+
+}
+.box5:hover, .box6:hover{
+    border: solid pink 5px;
+    background-color: pink;
+    color: aliceblue;
+    
+}
+#Header4{
+    background-color: pink;
+    height: 80px;
+      color: aliceblue;
+      text-align: center;
+      font-weight: bolder;
+      font-size: 60px;
+      padding-top: 10px;
+      border-radius: 10px;
+    }
+    #Body4{
+        color: palevioletred;
+        font-size: x-large;
+        padding-left: 80px;
+        padding-bottom: 50px;
+        margin-top: 50px;
+
+    }
+
+
